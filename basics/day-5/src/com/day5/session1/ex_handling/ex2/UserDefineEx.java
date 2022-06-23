@@ -1,7 +1,7 @@
 package com.day5.session1.ex_handling.ex2;
 
 
-class InvalidRadiusException extends Exception {
+class InvalidRadiusException extends RuntimeException {
 	public InvalidRadiusException(String message) {
 		super(message);
 	}

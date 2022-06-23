@@ -12,7 +12,7 @@ public class ObjectClassExample {
 		
 		Employee employee1 = new Employee(12, "raj", 45000);
 
-		Employee employee2 = new Employee(12, "raj", 45000);
+		Employee employee2 = new Employee(12, "raj", 49000);
 
 		// System.out.println(employee1.hashCode());
 
