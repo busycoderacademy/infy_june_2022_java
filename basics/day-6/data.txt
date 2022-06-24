@@ -1,0 +1,5 @@
+He is known as the father of the Java programming language
+He got the idea for the Java VM while writing a program to port 
+software from a PERQ by translating Perq Q-Code to VAX assembler and emulating the hardware
+He is generally credited with having invented the Java programming language in
+He is generally credited with having invented the Java programming language in
