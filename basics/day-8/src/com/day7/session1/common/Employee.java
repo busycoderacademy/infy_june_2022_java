@@ -4,6 +4,14 @@ public class Employee implements Comparable<Employee>{
 	private int id;
 	private String name;
 	private double salary;
+	
+	public static boolean  isNameContainRaj(String name) {
+		return name.contains("raj");
+	}
+	
+	public boolean isHighlyPaid() {
+		return this.salary>=2500000;
+	}
 	public int getId() {
 		return id;
 	}
